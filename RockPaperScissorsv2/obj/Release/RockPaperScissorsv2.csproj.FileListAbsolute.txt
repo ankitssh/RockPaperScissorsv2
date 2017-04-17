@@ -1,0 +1,8 @@
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\bin\Release\RockPaperScissorsv2.exe.config
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\RockPaperScissorsv2.Form1.resources
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\RockPaperScissorsv2.Properties.Resources.resources
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\RockPaperScissorsv2.Form1.aa.resources
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\RockPaperScissorsv2.csproj.GenerateResource.Cache
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\aa\RockPaperScissorsv2.resources.dll
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\RockPaperScissorsv2.exe
+C:\Users\Anki\documents\visual studio 2012\Projects\RockPaperScissorsv2\RockPaperScissorsv2\obj\Release\RockPaperScissorsv2.pdb
